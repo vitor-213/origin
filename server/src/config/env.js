@@ -1,0 +1,1 @@
+// Validación de variables de entorno al arrancar (fail-fast)

@@ -1,0 +1,1 @@
+// Conexión a MongoDB con Mongoose (mongoose.connect + manejo de eventos)
